@@ -1,0 +1,102 @@
+{
+    "Tops": [
+        {
+            "productId": "product1_1",
+            "productName": "Align Tank Top",
+            "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
+            "brand": "Lululemon",
+            "priceList": "68.00",
+		"productLink": "https://shop.lululemon.com/p/women-tanks/Align-Tank/_/prod9600539?color=52868"
+        },
+        {
+            "productId": "product1_2",
+            "productName": "Training T-Shirt",
+            "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
+            "brand": "Lululemon",
+            "priceList": "52.00",
+		"productLink": "https://shop.lululemon.com/p/tops-short-sleeve/Abrasion-Resistant-Train-T-MD/_/prod11200034?color=32894"
+        },
+        {
+            "productId": "product1_3",
+            "productName": "Training Long Sleeve",
+            "size": "Sizes XS S M L XL",
+            "brand": "Year of Ours",
+            "priceList": "125.00",
+		"productLink": "https://yearofours.com/collections/tops/products/training-long-sleeve?variant=40005927796791"
+        },
+        {
+            "productId": "product1_4",
+            "productName": "Robin Bra",
+            "size": "Sizes XS S M L XL",
+            "brand": "Year of Ours",
+            "priceList": "48.00",
+		"productLink": "https://yearofours.com/collections/tops/products/robin-bra?variant=39748915822647"
+        },
+        {
+            "productId": "product1_5",
+            "productName": "Malia Wrap",
+            "size": "Sizes XS S M L XL",
+            "brand": "Live the Process",
+            "priceList": "188.00",
+		"productLink": "https://livetheprocess.com/products/malia-wrap?variant=44617813983518"
+        },
+        {
+            "productId": "product1_6",
+            "productName": "Verso Cut Out",
+            "size": "Sizes XS S M L XL",
+            "brand": "Year of Ours",
+            "priceList": "188.00",
+		"productLink": "https://livetheprocess.com/products/verso-cut-out?variant=44373648081182"
+        }
+    ],
+    "Bottoms": [
+        {
+            "productId": "product2_1",
+            "productName": "Align High-Rise Pant with Pockets",
+            "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
+            "brand": "Lululemon",
+            "priceList": "128.00",
+		"productLink": "https://shop.lululemon.com/p/womens-leggings/Align-HighRise-Tight-25-Pockets/_/prod10370071?color=26083"
+        },
+        {
+            "productId": "product2_2",
+            "productName": "Groove Super-High-Rise Flared Pant",
+            "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
+            "brand": "Lululemon",
+            "priceList": "118.00",
+		"productLink": "https://shop.lululemon.com/p/women-pants/Groove-Pant-Flare-Nulu/_/prod9820425?color=52868"
+        },
+        {
+            "productId": "product2_3",
+            "productName": "Heavy Terry Wide Leg Sweatpant",
+            "size": "Sizes XS S M L XL",
+            "brand": "Year of Ours",
+            "priceList": "140.00",
+		"productLink": "https://yearofours.com/collections/pants/products/heavy-terry-wide-leg-sweatpant"
+        },
+        {
+            "productId": "product2_4",
+            "productName": "Boyfriend Sweatpant",
+            "size": "Sizes XS S M L XL",
+            "brand": "Year of Ours",
+            "priceList": "66.00",
+		"productLink": "https://yearofours.com/collections/pants/products/boyfriend-sweat-pant"
+        },
+        {
+            "productId": "product2_5",
+            "productName": "Leda Wide Leg",
+            "size": "Sizes XS S M L XL",
+            "brand": "Live the Process",
+            "priceList": "148.00",
+		"productLink": "https://livetheprocess.com/products/leda-wide-leg?variant=43669844558110"
+        },
+        {
+            "productId": "product2_6",
+            "productName": "Alba Skort",
+            "size": "Sizes XS S M L XL",
+            "brand": "Live the Process",
+            "priceList": "218.00",
+		"productLink": "https://livetheprocess.com/products/alba-skirt?variant=44625313595678"
+        }
+    ]
+}
