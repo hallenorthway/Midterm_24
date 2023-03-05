@@ -47,6 +47,70 @@
             "brand": "Year of Ours",
             "priceList": "188.00",
 		"productLink": "https://livetheprocess.com/products/verso-cut-out?variant=44373648081182"
+        },
+        {
+            "productId": "product1_7",
+            "productName": "Retroplush Logo Hoodie Sweatshirt",
+            "size": "Sizes XXS XS S M L XL 1X 2X 3X",
+            "brand": "Athleta",
+            "priceList": "79.00",
+		"productLink": "https://athleta.gap.com/browse/product.do?pid=466913022&cid=1108293&pcid=1032080&vid=1#pdp-page-content"
+        },
+        {
+            "productId": "product1_8",
+            "productName": "Cool Down Top",
+            "size": "Sizes XXS XS S M L XL 1X 2X 3X",
+            "brand": "Athleta",
+            "priceList": "65.00",
+		"productLink": "https://athleta.gap.com/browse/product.do?pid=533418012&cid=1108293&pcid=1032080&vid=1#pdp-page-content"
+        },
+        {
+            "productId": "product1_9",
+            "productName": "Adicolor Essentials Rib Tank Top",
+            "size": "Sizes XXS XS S M L XL",
+            "brand": "Adidas",
+            "priceList": "30.00",
+		"productLink": "https://www.adidas.com/us/adicolor-essentials-rib-tank-top/IB9111.html"
+        },
+        {
+            "productId": "product1_10",
+            "productName": "Trainicons 3-Stripes Long Sleeves Tee",
+            "size": "Sizes XXS XS S M L XL 2XL",
+            "brand": "Adidas",
+            "priceList": "36.00",
+		"productLink": "https://www.adidas.com/us/trainicons-3-stripes-long-sleeves-tee/HN0642.html"
+        },
+        {
+            "productId": "product1_11",
+            "productName": "Soft Sculpt Long Sleeve",
+            "size": "Sizes XS S M L",
+            "brand": "Alo",
+            "priceList": "88.00",
+		"productLink": "https://www.aloyoga.com/products/w3703r-soft-sculpt-long-sleeve-mars-clay?"
+        },
+        {
+            "productId": "product1_12",
+            "productName": "Alosoft Show Stopper Bra",
+            "size": "Sizes XS S M L",
+            "brand": "Alo",
+            "priceList": "68.00",
+		"productLink": "https://www.aloyoga.com/products/w9602r-alosoft-show-stopper-bra-mars-clay?"
+        },
+        {
+            "productId": "product1_13",
+            "productName": "Nike Sportswear Essential",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "Nike",
+            "priceList": "35.00",
+		"productLink": "https://www.nike.com/t/sportswear-essential-womens-oversized-t-shirt-Pb83Qx/DZ3114-063"
+        },
+        {
+            "productId": "product1_14",
+            "productName": "Nike Dri-FIT One",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "Nike",
+            "priceList": "25.97",
+		"productLink": "https://www.nike.com/t/dri-fit-one-womens-standard-fit-short-sleeve-cropped-top-c3jKNg/DD4954-334"
         }
     ],
     "Bottoms": [
@@ -97,6 +161,120 @@
             "brand": "Live the Process",
             "priceList": "218.00",
 		"productLink": "https://livetheprocess.com/products/alba-skirt?variant=44625313595678"
+        },
+        {
+            "productId": "product2_7",
+            "productName": "Ultimate Stash 7 Short",
+            "size": "Sizes XXS XS S M L XL 1X 2X 3X",
+            "brand": "Athleta",
+            "priceList": "69.00",
+		"productLink": "https://athleta.gap.com/browse/product.do?pid=987266052&cid=1171587&pcid=1025878&vid=1&nav=hamnav%3ABottoms%3ACATEGORIES%3AAll%20Bottoms#pdp-page-content"
+        },
+        {
+            "productId": "product2_8",
+            "productName": "Trekkie North Bermuda Short",
+            "size": "Sizes XXS XS S M L XL 1X 2X 3X",
+            "brand": "Athleta",
+            "priceList": "69.00",
+		"productLink": "https://athleta.gap.com/browse/product.do?pid=533738012&cid=1171587&pcid=1025878&vid=1&nav=hamnav%3ABottoms%3ACATEGORIES%3AAll%20Bottoms#pdp-page-content"
+        },
+        {
+            "productId": "product2_9",
+            "productName": "Essentials Fleece Jogger",
+            "size": "Sizes XXS XS S M L XL",
+            "brand": "Adidas",
+            "priceList": "55.00",
+		"productLink": "https://www.adidas.com/us/essentials-fleece-joggers/IA6436.html"
+        },
+        {
+            "productId": "product2_10",
+            "productName": "Adidas by Stella McCartney TrueCasuals Woven Solid Track Pants",
+            "size": "Sizes XXS XS S M L XL 2XL",
+            "brand": "Adidas",
+            "priceList": "150.00",
+		"productLink": "https://www.adidas.com/us/adidas-by-stella-mccartney-truecasuals-woven-solid-track-pants/HS0036.html"
+        },
+        {
+            "productId": "product2_11",
+            "productName": "High-Waist Elevation Trouser",
+            "size": "Sizes XXS XS S M L",
+            "brand": "Alo",
+            "priceList": "158.00",
+		"productLink": "https://www.aloyoga.com/products/w51202r-high-waist-elevation-trouser-black"
+        },
+        {
+            "productId": "product2_12",
+            "productName": "Aces Tennis Skirt",
+            "size": "Sizes XXS XS S M L",
+            "brand": "Alo",
+            "priceList": "74.00",
+		"productLink": "https://www.aloyoga.com/products/w6235r-aces-tennis-skirt-white?"
+        },
+        {
+            "productId": "product2_13",
+            "productName": "Nike Sportswear Phoenix Fleece",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "Nike",
+            "priceList": "75.00",
+		"productLink": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-high-waisted-wide-leg-sweatpants-kcLVSK/FB9061-063"
+        },
+        {
+            "productId": "product2_14",
+            "productName": "Nike Tempo",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "Nike",
+            "priceList": "32.00",
+		"productLink": "https://www.nike.com/t/tempo-womens-running-shorts-plus-size-wJw9mZ/CU8890-224"
+        }
+    ],
+    "Shoes": [
+        {
+            "productId": "product3_1",
+            "productName": "Strongfeel Women's Training Shoes",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Lululemon",
+            "priceList": "128.00",
+		"productLink": "https://shop.lululemon.com/p/shoes/Strongfeel-Womens-Training-Shoe/_/prod11210018?color=60285"
+        },
+        {
+            "productId": "product3_2",
+            "productName": "Restfeel Women's Slide",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Lululemon",
+            "priceList": "58.00",
+		"productLink": "https://shop.lululemon.com/p/shoes/W-Restfeel-Slide/_/prod11021003?color=61719"
+        },
+        {
+            "productId": "product3_3",
+            "productName": "Cloudfoam Pure 2.0 Shoes",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 11",
+            "brand": "Adidas",
+            "priceList": "75.00",
+		"productLink": "https://www.adidas.com/us/cloudfoam-pure-2.0--shoes/H04757.html"
+        },
+        {
+            "productId": "product3_4",
+            "productName": "Ultraboost Light Shoes",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Adidas",
+            "priceList": "190.00",
+		"productLink": "https://www.adidas.com/us/ultraboost-light-shoes/GY9353.html"
+        },
+        {
+            "productId": "product3_5",
+            "productName": "Nike Air Force 1 '07 LX",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Nike",
+            "priceList": "120.00",
+		"productLink": "https://www.nike.com/t/air-force-1-07-se-womens-shoes-cjvcc9/CT1990-100"
+        },
+        {
+            "productId": "product3_6",
+            "productName": "Nike Air Max 90 Futura",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Nike",
+            "priceList": "150.00",
+		"productLink": "https://www.nike.com/t/air-max-90-futura-womens-shoes-kvRZ4h/DM9922-104"
         }
     ]
 }
