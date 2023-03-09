@@ -1,4 +1,4 @@
-fetch("products.json")
+fetch("shirts.json")
 .then(function(response){
 	return response.json();
 })
