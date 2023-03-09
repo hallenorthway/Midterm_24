@@ -185,7 +185,7 @@
     },
     {
         "productId": "product1_26",
-        "productName": "Pink Tank Top",
+        "productName": "Lululemon Pink Tank Top",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
         "priceList": "25.97",
@@ -193,7 +193,7 @@
     },
     {
         "productId": "product1_27",
-        "productName": "White Tank Top",
+        "productName": "Lululemon White Tank Top",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
         "priceList": "69.00",
@@ -201,7 +201,7 @@
     },
     {
         "productId": "product1_28",
-        "productName": "Grey Long Sleeve",
+        "productName": "Lululemon Grey Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
         "priceList": "46.37",
@@ -217,7 +217,7 @@
     },
     {
         "productId": "product1_30",
-        "productName": "White Long Sleeve",
+        "productName": "Nike White Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Nike",
         "priceList": "32.00",
@@ -225,7 +225,7 @@
     },
     {
         "productId": "product1_31",
-        "productName": "Green Long Sleeve",
+        "productName": "Nike Green Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Nike",
         "priceList": "47.56",
