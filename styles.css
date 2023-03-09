@@ -90,7 +90,12 @@ body {
     color: cornflowerblue;
 
 }
+.start{
+    text-align: center;
+    padding-top: 250px;
+    
 
+}
 .cover-container {
 	max-width: 60em;
   }
