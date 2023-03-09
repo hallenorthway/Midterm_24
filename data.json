@@ -364,7 +364,7 @@
         },
         {
             "productId": "product2_16",
-            "productName": "LuluLemon Black Shorts",
+            "productName": "LuluLemon Speed Up High-rise Short 4 inch",
             "size": "Sizes XS S M L XL XXL",
             "brand": "LuluLemon",
             "priceList": "75.00",
@@ -372,34 +372,34 @@
         },
         {
             "productId": "product2_17",
-            "productName": "Nike Black Shorts",
+            "productName": "Nike Womens Glam Short- Black",
             "size": "Sizes XS S M L XL XXL",
             "brand": "Nike",
-            "priceList": "75.00",
+            "priceList": "60.00",
 		"url": "./images/product2_17.jpg"
         },
         {
             "productId": "product2_18",
-            "productName": "LuluLemon Green Bike Short",
+            "productName": "^ inch Biker Shorts",
             "size": "Sizes XS S M L XL XXL",
             "brand": "LuluLemon",
-            "priceList": "75.00",
+            "priceList": "40.00",
 		"url": "./images/product2_18.jpg"
         },
         {
             "productId": "product2_19",
-            "productName": "Nike Pink Shorts",
+            "productName": "Track That Short 5 inch",
             "size": "Sizes XS S M L XL XXL",
-            "brand": "Nike",
-            "priceList": "75.00",
+            "brand": "LuluLemon",
+            "priceList": "60.00",
 		"url": "./images/product2_19.jpg"
         },
         {
             "productId": "product2_20",
-            "productName": "Nike Black Running Shorts",
+            "productName": "Nike Dri-fit Crew Running Shorts",
             "size": "Sizes XS S M L XL XXL",
             "brand": "Nike",
-            "priceList": "75.00",
+            "priceList": "25.00",
 		"url": "./images/product2_20.jpg"
         }
 
@@ -455,34 +455,34 @@
         },
         {
             "productId": "product3_7",
-            "productName": "Nike Mulitcolored Tennis Shoe",
+            "productName": "Nike Womens Free 5.0",
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Nike",
-            "priceList": "150.00",
+            "priceList": "115.00",
             "url": "./images/product3_7.jpg"
         },
         {
             "productId": "product3_8",
-            "productName": "Nike Black Tennis Shoes",
+            "productName": "Nike Air Max INTRLK Lite",
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Nike",
-            "priceList": "150.00",
+            "priceList": "80.00",
             "url": "./images/product3_8.jpg"
         },
         {
             "productId": "product3_9",
-            "productName": "Nike Pink and Cream Tennis Shoes",
+            "productName": "Nike Air Max 270",
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Nike",
-            "priceList": "150.00",
+            "priceList": "90.00",
             "url": "./images/product3_9.jpg"
         },
         {
             "productId": "product3_10",
-            "productName": "LuluLemon White Tennis Shoes",
+            "productName": "Strongfeel Women's Training Shoe",
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "LuluLemon",
-            "priceList": "150.00",
+            "priceList": "128.00",
             "url": "./images/product3_10.jpg"
         }
 
