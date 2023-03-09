@@ -411,7 +411,7 @@
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Lululemon",
             "priceList": "128.00",
-		"productLink": "https://shop.lululemon.com/p/shoes/Strongfeel-Womens-Training-Shoe/_/prod11210018?color=60285"
+		"url": "./images/product3_1.jpg"
         },
         {
             "productId": "product3_2",
@@ -419,7 +419,7 @@
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Lululemon",
             "priceList": "58.00",
-		"productLink": "https://shop.lululemon.com/p/shoes/W-Restfeel-Slide/_/prod11021003?color=61719"
+            "url": "./images/product3_2.jpg"
         },
         {
             "productId": "product3_3",
@@ -427,7 +427,7 @@
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 11",
             "brand": "Adidas",
             "priceList": "75.00",
-		"productLink": "https://www.adidas.com/us/cloudfoam-pure-2.0--shoes/H04757.html"
+            "url": "./images/product3_3.jpg"
         },
         {
             "productId": "product3_4",
@@ -435,7 +435,7 @@
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Adidas",
             "priceList": "190.00",
-		"productLink": "https://www.adidas.com/us/ultraboost-light-shoes/GY9353.html"
+            "url": "./images/product3_4.jpg"
         },
         {
             "productId": "product3_5",
@@ -443,7 +443,7 @@
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Nike",
             "priceList": "120.00",
-		"productLink": "https://www.nike.com/t/air-force-1-07-se-womens-shoes-cjvcc9/CT1990-100"
+            "url": "./images/product3_5.png"
         },
         {
             "productId": "product3_6",
@@ -451,7 +451,40 @@
             "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
             "brand": "Nike",
             "priceList": "150.00",
-		"productLink": "https://www.nike.com/t/air-max-90-futura-womens-shoes-kvRZ4h/DM9922-104"
+            "url": "./images/product3_6.png"
+        },
+        {
+            "productId": "product3_7",
+            "productName": "Nike Mulitcolored Tennis Shoe",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Nike",
+            "priceList": "150.00",
+            "url": "./images/product3_7.jpg"
+        },
+        {
+            "productId": "product3_8",
+            "productName": "Nike Black Tennis Shoes",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Nike",
+            "priceList": "150.00",
+            "url": "./images/product3_8.jpg"
+        },
+        {
+            "productId": "product3_9",
+            "productName": "Nike Pink and Cream Tennis Shoes",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "Nike",
+            "priceList": "150.00",
+            "url": "./images/product3_9.jpg"
+        },
+        {
+            "productId": "product3_10",
+            "productName": "LuluLemon White Tennis Shoes",
+            "size": "Sizes 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12",
+            "brand": "LuluLemon",
+            "priceList": "150.00",
+            "url": "./images/product3_10.jpg"
         }
+
     ]
 }
