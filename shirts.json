@@ -100,15 +100,15 @@
         "productName": "Black Lululemon Zip-up",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "118.00",
     "url": "./images/product1_15.jpg"
     },
     {
         "productId": "product1_16",
-        "productName": "Grey Align Top",
+        "productName": "Black Align Top",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "69.00",
     "url": "./images/product1_16.jpg"
     },
     {
@@ -116,15 +116,15 @@
         "productName": "Black Lululemon Top",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "39.00",
     "url": "./images/product1_17.jpg"
     },
     {
         "productId": "product1_18",
-        "productName": "Pink Lululemon Zip-up",
+        "productName": "Pink Lululemon Define Jacket",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "118.00",
     "url": "./images/product1_18.jpg"
     },
     {
@@ -132,23 +132,23 @@
         "productName": "Brown Lululemon Zip-up",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "118.00",
     "url": "./images/product1_19.jpg"
     },
     {
         "productId": "product1_20",
-        "productName": "Pink Lululemon Sweatshirt",
+        "productName": "Pink Lululemon Half Zip",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "100.00",
     "url": "./images/product1_20.jpg"
     },
     {
         "productId": "product1_21",
-        "productName": "Black Lululemon Zip-up",
+        "productName": "Green Lululemon Scuba Jacket",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "139.00",
     "url": "./images/product1_21.jpg"
     },
     {
@@ -156,15 +156,15 @@
         "productName": "Black Lululemon Zip-up Sweatshirt",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "129.00",
     "url": "./images/product1_22.jpg"
     },
     {
         "productId": "product1_23",
-        "productName": "Brown Sweatshirt",
+        "productName": "Nike Brown Sweatshirt",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Nike",
-        "priceList": "25.97",
+        "priceList": "55.45",
     "url": "./images/product1_23.jpg"
     },
     {
@@ -172,7 +172,7 @@
         "productName": "Grey Sweatshirt",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Nike",
-        "priceList": "25.97",
+        "priceList": "45.89",
     "url": "./images/product1_24.jpg"
     },
     {
@@ -185,7 +185,7 @@
     },
     {
         "productId": "product1_26",
-        "productName": "Pink Tank Top",
+        "productName": "Lululemon Pink Tank Top",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
         "priceList": "25.97",
@@ -193,42 +193,42 @@
     },
     {
         "productId": "product1_27",
-        "productName": "White Tank Top",
+        "productName": "Lululemon White Tank Top",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "69.00",
     "url": "./images/product1_27.jpg"
     },
     {
         "productId": "product1_28",
-        "productName": "Grey Long Sleeve",
+        "productName": "Lululemon Grey Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "46.37",
     "url": "./images/product1_28.jpg"
     },
     {
         "productId": "product1_29",
-        "productName": "Black Lululemon long sleeve",
+        "productName": "Black Lululemon Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Lululemon",
-        "priceList": "25.97",
+        "priceList": "88.00",
     "url": "./images/product1_29.jpg"
     },
     {
         "productId": "product1_30",
-        "productName": "White Long Sleeve",
+        "productName": "Nike White Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Nike",
-        "priceList": "25.97",
+        "priceList": "32.00",
     "url": "./images/product1_30.jpg"
     },
     {
         "productId": "product1_31",
-        "productName": "Green Long Sleeve",
+        "productName": "Nike Green Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Nike",
-        "priceList": "25.97",
+        "priceList": "47.56",
     "url": "./images/product1_31.jpg"
     },
     {
@@ -236,7 +236,7 @@
         "productName": "Black Nike Long Sleeve",
         "size": "Sizes XS S M L XL XXL",
         "brand": "Nike",
-        "priceList": "25.97",
+        "priceList": "35.64",
     "url": "./images/product1_32.jpg"
     }  
 ]
