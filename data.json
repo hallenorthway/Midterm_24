@@ -248,7 +248,7 @@
             "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
             "brand": "Lululemon",
             "priceList": "128.00",
-		"productLink": "https://shop.lululemon.com/p/womens-leggings/Align-HighRise-Tight-25-Pockets/_/prod10370071?color=26083"
+		"url": "./images/product2_1.jpg"
         },
         {
             "productId": "product2_2",
@@ -256,7 +256,7 @@
             "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
             "brand": "Lululemon",
             "priceList": "118.00",
-		"productLink": "https://shop.lululemon.com/p/women-pants/Groove-Pant-Flare-Nulu/_/prod9820425?color=52868"
+		"url": "./images/product2_2.jpg"
         },
         {
             "productId": "product2_3",
@@ -264,7 +264,7 @@
             "size": "Sizes XS S M L XL",
             "brand": "Year of Ours",
             "priceList": "140.00",
-		"productLink": "https://yearofours.com/collections/pants/products/heavy-terry-wide-leg-sweatpant"
+		"url": "./images/product2_4.jpg"
         },
         {
             "productId": "product2_4",
@@ -272,7 +272,7 @@
             "size": "Sizes XS S M L XL",
             "brand": "Year of Ours",
             "priceList": "66.00",
-		"productLink": "https://yearofours.com/collections/pants/products/boyfriend-sweat-pant"
+		"url": "./images/product2_5.jpg"
         },
         {
             "productId": "product2_5",
@@ -280,7 +280,7 @@
             "size": "Sizes XS S M L XL",
             "brand": "Live the Process",
             "priceList": "148.00",
-		"productLink": "https://livetheprocess.com/products/leda-wide-leg?variant=43669844558110"
+		"url": "./images/product2_5.jpg"
         },
         {
             "productId": "product2_6",
@@ -288,7 +288,7 @@
             "size": "Sizes XS S M L XL",
             "brand": "Live the Process",
             "priceList": "218.00",
-		"productLink": "https://livetheprocess.com/products/alba-skirt?variant=44625313595678"
+		"url": "./images/product2_6.jpg"
         },
         {
             "productId": "product2_7",
@@ -296,7 +296,7 @@
             "size": "Sizes XXS XS S M L XL 1X 2X 3X",
             "brand": "Athleta",
             "priceList": "69.00",
-		"productLink": "https://athleta.gap.com/browse/product.do?pid=987266052&cid=1171587&pcid=1025878&vid=1&nav=hamnav%3ABottoms%3ACATEGORIES%3AAll%20Bottoms#pdp-page-content"
+		"url": "./images/product2_7.jpg"
         },
         {
             "productId": "product2_8",
@@ -304,7 +304,7 @@
             "size": "Sizes XXS XS S M L XL 1X 2X 3X",
             "brand": "Athleta",
             "priceList": "69.00",
-		"productLink": "https://athleta.gap.com/browse/product.do?pid=533738012&cid=1171587&pcid=1025878&vid=1&nav=hamnav%3ABottoms%3ACATEGORIES%3AAll%20Bottoms#pdp-page-content"
+		"url": "./images/product2_8.jpg"
         },
         {
             "productId": "product2_9",
@@ -312,7 +312,7 @@
             "size": "Sizes XXS XS S M L XL",
             "brand": "Adidas",
             "priceList": "55.00",
-		"productLink": "https://www.adidas.com/us/essentials-fleece-joggers/IA6436.html"
+		"url": "./images/product2_9.jpg"
         },
         {
             "productId": "product2_10",
@@ -320,7 +320,7 @@
             "size": "Sizes XXS XS S M L XL 2XL",
             "brand": "Adidas",
             "priceList": "150.00",
-		"productLink": "https://www.adidas.com/us/adidas-by-stella-mccartney-truecasuals-woven-solid-track-pants/HS0036.html"
+		"url": "./images/product2_10.jpg"
         },
         {
             "productId": "product2_11",
@@ -328,7 +328,7 @@
             "size": "Sizes XXS XS S M L",
             "brand": "Alo",
             "priceList": "158.00",
-		"productLink": "https://www.aloyoga.com/products/w51202r-high-waist-elevation-trouser-black"
+		"url": "./images/product2_11.jpg"
         },
         {
             "productId": "product2_12",
@@ -336,7 +336,7 @@
             "size": "Sizes XXS XS S M L",
             "brand": "Alo",
             "priceList": "74.00",
-		"productLink": "https://www.aloyoga.com/products/w6235r-aces-tennis-skirt-white?"
+		"url":"./images/product2_12.jpg"
         },
         {
             "productId": "product2_13",
@@ -344,7 +344,7 @@
             "size": "Sizes XS S M L XL XXL",
             "brand": "Nike",
             "priceList": "75.00",
-		"productLink": "https://www.nike.com/t/sportswear-phoenix-fleece-womens-high-waisted-wide-leg-sweatpants-kcLVSK/FB9061-063"
+		"url": "./images/product2_13.png"
         },
         {
             "productId": "product2_14",
@@ -352,8 +352,57 @@
             "size": "Sizes XS S M L XL XXL",
             "brand": "Nike",
             "priceList": "32.00",
-		"productLink": "https://www.nike.com/t/tempo-womens-running-shorts-plus-size-wJw9mZ/CU8890-224"
+		"url":"./images/product2_14.png"
+        },
+        {
+            "productId": "product2_15",
+            "productName": "Black Align Leggings",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "LuluLemon",
+            "priceList": "75.00",
+		"url": "./images/product2_15.jpg"
+        },
+        {
+            "productId": "product2_16",
+            "productName": "LuluLemon Black Shorts",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "LuluLemon",
+            "priceList": "75.00",
+		"url": "./images/product2_16.jpg"
+        },
+        {
+            "productId": "product2_17",
+            "productName": "Nike Black Shorts",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "Nike",
+            "priceList": "75.00",
+		"url": "./images/product2_17.jpg"
+        },
+        {
+            "productId": "product2_18",
+            "productName": "LuluLemon Green Bike Short",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "LuluLemon",
+            "priceList": "75.00",
+		"url": "./images/product2_18.jpg"
+        },
+        {
+            "productId": "product2_19",
+            "productName": "Nike Pink Shorts",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "Nike",
+            "priceList": "75.00",
+		"url": "./images/product2_19.jpg"
+        },
+        {
+            "productId": "product2_20",
+            "productName": "Nike Black Running Shorts",
+            "size": "Sizes XS S M L XL XXL",
+            "brand": "Nike",
+            "priceList": "75.00",
+		"url": "./images/product2_20.jpg"
         }
+
     ],
     "Shoes": [
         {
