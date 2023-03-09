@@ -1,0 +1,162 @@
+[
+    {
+        "productId": "product2_1",
+        "productName": "Align High-Rise Pant with Pockets",
+        "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
+        "brand": "Lululemon",
+        "priceList": "128.00",
+    "url": "./images/product2_1.jpg"
+    },
+    {
+        "productId": "product2_2",
+        "productName": "Groove Super-High-Rise Flared Pant",
+        "size": "Sizes 0 2 4 6 8 10 12 14 16 18 20",
+        "brand": "Lululemon",
+        "priceList": "118.00",
+    "url": "./images/product2_2.jpg"
+    },
+    {
+        "productId": "product2_3",
+        "productName": "Heavy Terry Wide Leg Sweatpant",
+        "size": "Sizes XS S M L XL",
+        "brand": "Year of Ours",
+        "priceList": "140.00",
+    "url": "./images/product2_4.jpg"
+    },
+    {
+        "productId": "product2_4",
+        "productName": "Boyfriend Sweatpant",
+        "size": "Sizes XS S M L XL",
+        "brand": "Year of Ours",
+        "priceList": "66.00",
+    "url": "./images/product2_5.jpg"
+    },
+    {
+        "productId": "product2_5",
+        "productName": "Leda Wide Leg",
+        "size": "Sizes XS S M L XL",
+        "brand": "Live the Process",
+        "priceList": "148.00",
+    "url": "./images/product2_5.jpg"
+    },
+    {
+        "productId": "product2_6",
+        "productName": "Alba Skort",
+        "size": "Sizes XS S M L XL",
+        "brand": "Live the Process",
+        "priceList": "218.00",
+    "url": "./images/product2_6.jpg"
+    },
+    {
+        "productId": "product2_7",
+        "productName": "Ultimate Stash 7 Short",
+        "size": "Sizes XXS XS S M L XL 1X 2X 3X",
+        "brand": "Athleta",
+        "priceList": "69.00",
+    "url": "./images/product2_7.jpg"
+    },
+    {
+        "productId": "product2_8",
+        "productName": "Trekkie North Bermuda Short",
+        "size": "Sizes XXS XS S M L XL 1X 2X 3X",
+        "brand": "Athleta",
+        "priceList": "69.00",
+    "url": "./images/product2_8.jpg"
+    },
+    {
+        "productId": "product2_9",
+        "productName": "Essentials Fleece Jogger",
+        "size": "Sizes XXS XS S M L XL",
+        "brand": "Adidas",
+        "priceList": "55.00",
+    "url": "./images/product2_9.jpg"
+    },
+    {
+        "productId": "product2_10",
+        "productName": "Adidas by Stella McCartney TrueCasuals Woven Solid Track Pants",
+        "size": "Sizes XXS XS S M L XL 2XL",
+        "brand": "Adidas",
+        "priceList": "150.00",
+    "url": "./images/product2_10.jpg"
+    },
+    {
+        "productId": "product2_11",
+        "productName": "High-Waist Elevation Trouser",
+        "size": "Sizes XXS XS S M L",
+        "brand": "Alo",
+        "priceList": "158.00",
+    "url": "./images/product2_11.jpg"
+    },
+    {
+        "productId": "product2_12",
+        "productName": "Aces Tennis Skirt",
+        "size": "Sizes XXS XS S M L",
+        "brand": "Alo",
+        "priceList": "74.00",
+    "url":"./images/product2_12.jpg"
+    },
+    {
+        "productId": "product2_13",
+        "productName": "Nike Sportswear Phoenix Fleece",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "Nike",
+        "priceList": "75.00",
+    "url": "./images/product2_13.png"
+    },
+    {
+        "productId": "product2_14",
+        "productName": "Nike Tempo",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "Nike",
+        "priceList": "32.00",
+    "url":"./images/product2_14.png"
+    },
+    {
+        "productId": "product2_15",
+        "productName": "Black Align Leggings",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "LuluLemon",
+        "priceList": "75.00",
+    "url": "./images/product2_15.jpg"
+    },
+    {
+        "productId": "product2_16",
+        "productName": "LuluLemon Black Shorts",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "LuluLemon",
+        "priceList": "75.00",
+    "url": "./images/product2_16.jpg"
+    },
+    {
+        "productId": "product2_17",
+        "productName": "Nike Black Shorts",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "Nike",
+        "priceList": "75.00",
+    "url": "./images/product2_17.jpg"
+    },
+    {
+        "productId": "product2_18",
+        "productName": "LuluLemon Green Bike Short",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "LuluLemon",
+        "priceList": "75.00",
+    "url": "./images/product2_18.jpg"
+    },
+    {
+        "productId": "product2_19",
+        "productName": "Nike Pink Shorts",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "Nike",
+        "priceList": "75.00",
+    "url": "./images/product2_19.jpg"
+    },
+    {
+        "productId": "product2_20",
+        "productName": "Nike Black Running Shorts",
+        "size": "Sizes XS S M L XL XXL",
+        "brand": "Nike",
+        "priceList": "75.00",
+    "url": "./images/product2_20.jpg"
+    } 
+]
