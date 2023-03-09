@@ -31,7 +31,7 @@ table td{
 	border:  thin solid #d4d4d4;
 	width: 18%;
 	text-align: center;
-	background-color: #FBEEE6;
+	background-color: #9f8189;
 }
 
 table img{
@@ -103,4 +103,7 @@ body {
   .nav-masthead .active {
 	color: #fff;
 	border-bottom-color: #fff;
+  }
+  header{
+	background-color:#9f8189;
   }
