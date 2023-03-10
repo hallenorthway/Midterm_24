@@ -1,3 +1,3 @@
 # Midterm_24
 
-# https://hallenorthway.github.io/coms319_midterm_proj/
+# https://hallenorthway.github.io/Midterm_24/
